@@ -1,0 +1,20 @@
+{
+  "name": "js-struct",
+  "version": "1.0.0",
+  "description": "Reproduce C Struct for JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pharuxtan/js-struct.git"
+  },
+  "author": "pharuxtan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pharuxtan/js-struct/issues"
+  },
+  "homepage": "https://github.com/pharuxtan/js-struct#readme",
+  "dependencies": {
+    "bigeval": "^3.1.0",
+    "ieee754": "^1.2.1"
+  }
+}
