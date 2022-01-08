@@ -1,7 +1,7 @@
 {
-  "name": "js-struct",
+  "name": "js-c-struct",
   "version": "1.0.0",
-  "description": "Reproduce C Struct for JavaScript",
+  "description": "Replicates C Struct for JavaScript",
   "main": "index.js",
   "repository": {
     "type": "git",
